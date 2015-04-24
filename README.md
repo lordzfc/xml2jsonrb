@@ -11,3 +11,11 @@ If you have ruby and bundler, go to step three.
 3. > budler install
 
 4. > chmod 775 converter.rb
+
+##Usage
+1. Move this script to directory with xmls
+
+2. Turn it on with using command 
+	> ./converter.rb 
+	or 
+	> ruby converter.rb
